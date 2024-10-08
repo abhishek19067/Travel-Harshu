@@ -2,7 +2,7 @@
 
 Travelo is a dynamic(it's now in production stage) and user-friendly travel app built using React, designed to help users plan their next adventure with ease. With Travelo, you can discover new destinations, create and manage itineraries, and share your travel experiences. Whether you're a globetrotter looking for inspiration or a traveler seeking to organize your trips, Travelo has got you covered.
 
-![4](public/images/4.png)
+
 
 ## Features
 
@@ -14,4 +14,3 @@ Travelo is a dynamic(it's now in production stage) and user-friendly travel app 
 - **Search Destinations**: Find information about specific destinations quickly and efficiently.
 - **Responsive Design**: Access Travelo from various devices, thanks to its responsive design.
 
-![3](public/images/3.png)
